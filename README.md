@@ -1,12 +1,12 @@
-# github.com/mattes/migrate docker image
+# github.com/golang-migrate/migrate docker image
 
-Docker image for database migration tool github.com/mattes/migrate built on Golang's official Alpine image.
+Docker image for database migration tool github.com/golang-migrate/migrate built on Golang's official Alpine image.
 
 ## Migrate
 
 Version: 3.0.1
 
-* https://github.com/mattes/migrate
+* https://github.com/golang-migrate/migrate
 
 ## Building
 
