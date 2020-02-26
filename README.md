@@ -4,14 +4,14 @@ Docker image for database migration tool github.com/golang-migrate/migrate built
 
 ## Migrate
 
-Version: 3.0.1
+Version: 4.9.1
 
 * https://github.com/golang-migrate/migrate
 
 ## Building
 
 ```
-docker build -t='migrate' .
+docker build -t='andrewjones/migrate' .
 ```
 
 ## Running
